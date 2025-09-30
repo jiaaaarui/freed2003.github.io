@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I recently finished my undergrad at UCLA and will be attending GeorgiaTech as a PhD student in the fall. I enjoy all aspects of security, as I am a believer that everything in the world has a need for security. I am currently working on projects with Prof. Rafail Ostrovsky on applied MPC.In a past life, I was an aspiring chemist studying protein-mRNA interactions under Prof. Sean O'Leary at UCR. I have also done research with Sandia National Labs and worked Trail of Bitsas a security engineer intern.
+I am a first year PhD student at Georgia Tech interested in cryptography. I am currently prospectively advised by Vladimir Kolesnikov and Vassilis Zikas on projects involving MPC and blockchain. In a past life, I was an aspiring chemist studying protein-mRNA interactions under Prof. Sean O'Leary at UCR. I have also done research with Sandia National Labs and worked at Trail of Bits and Verkada as a security engineer intern.
 
 My current research interests lie in cryptography, from thereotical to applied topics. I am particularly interested in taking theoretical concepts and applying them to useful systems. On the side, I enjoy learning about cryptanalysis and studying cracks in different cryptosystems.
 
