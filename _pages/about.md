@@ -6,7 +6,7 @@ subtitle: CSE & Math @ <a href='https://www.ucla.edu/'>UCLA</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_20260410_201414.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first year PhD student at Georgia Tech interested in cryptography. I am currently prospectively advised by Vladimir Kolesnikov and Vassilis Zikas on projects involving MPC and blockchain. In a past life, I was an aspiring chemist studying protein-mRNA interactions under Prof. Sean O'Leary at UCR. I have also done research with Sandia National Labs and worked at Trail of Bits and Verkada as a security engineer intern.
+I am a first year PhD student at Georgia Tech interested in cryptography. I am currently advised by Vladimir Kolesnikov and Vassilis Zikas on projects involving ZK and distributed security. In a past life, I was an aspiring chemist studying protein-mRNA interactions under Prof. Sean O'Leary at UCR. I have also done research with Sandia National Labs and worked at Trail of Bits and Verkada as a security engineer intern.
 
-My current research interests lie in cryptography, from thereotical to applied topics. I am particularly interested in taking theoretical concepts and applying them to useful systems. On the side, I enjoy learning about cryptanalysis and studying cracks in different cryptosystems.
+My current research interests lie in cryptography, from thereotical to applied topics. I am particularly interested in taking theoretical concepts and applying them to useful systems. On the side, I enjoy learning about cryptanalysis and studying cracks in different cryptosystems. My work is currently partially supported by the NSF GRFP.
 
 In my free time, I enjoy playing CTFs with the UCLA team [PBR](https://ctftime.org/team/186494/). I was also an officer of [ACM Cyber at UCLA](https://acmcyber.com) where I worked to help spread cybersecurity education at UCLA. I enjoy mentoring others, and have given several talks and lead several projects for members of the club. I am passionate about spreading interest in security.
 
